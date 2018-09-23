@@ -31,3 +31,4 @@ so you have to edit only these files to make your django app compatible with vue
 # vue files i edited
 
 1. frontend/vue.config.js [added]
+2. package.json (for yarn watch)
