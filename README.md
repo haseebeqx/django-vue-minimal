@@ -11,9 +11,9 @@ minimal boilerplate with django and vue cli
 # running
 
 ```sh
-  python manage.py runserver
+ python manage.py runserver
 ```
-and in another tab (`ctrl+shift+t`) run `vue-cli-service` watch using
+and in another tab (`ctrl+shift+t`) run vue-cli-service watch using
   
 ```sh
  cd frontend
