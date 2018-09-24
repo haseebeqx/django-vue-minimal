@@ -1,5 +1,5 @@
 # django-vue-minimal
-minimal boilerplate with django and vue cli
+minimal boilerplate with django and vue cli. this is a companion code for https://medium.com/@haseebeqx/getting-started-with-django-and-vue-js-20fe4bf31f29
 
 # installation
 ```bash
